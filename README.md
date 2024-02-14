@@ -1,1 +1,1 @@
-Markov chain implementation on Java
+Java implementation of the Markov chain
